@@ -15,7 +15,7 @@ I look forward to contributing to a company who's mission I believe in while als
 
 - 🔭 I’m currently working on an **Activities app for kids & parents**
 
-- 🌱 I’m currently learning **Java and AWS**
+- 🌱 I’m currently learning **Java** and **Data Structures/Algorithms**
 
 - 👨‍💻 My portfolio is [here](https://schmidt1519.github.io/portfolio/)
 
@@ -23,7 +23,7 @@ I look forward to contributing to a company who's mission I believe in while als
 
 - 📄 My resume is [here](https://schmidt1519.github.io/resume/)
 
-- ⚡ My interests include **Family, Coding, Fitness, Crypto, Sports, Tech Gadgets, Hiking, Music**
+- :heart: My interests include **Family, Coding, Fitness, Crypto, Sports, Tech Gadgets, Hiking, Music**
 
 <br/>
 
