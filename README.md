@@ -5,7 +5,7 @@
 
 ### Thanks for stopping by!
 
-I am a full-stack software developer coming from the accounting/finance world ready to make a positive impact on the world through software development. 
+I am a full-stack software developer coming from the accounting/finance field ready to make a positive impact on the world through software development. 
 
 I look forward to contributing to a company who's mission I believe in, while also spending time on the side creating fun apps for my kids to enjoy.
 
