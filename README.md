@@ -5,7 +5,7 @@
 
 <p>I am a full-stack software developer coming from the accounting/finance field ready to make a positive impact on the world through software development. Since my middle school years, I have loved tinkering on computers and am fascinated with what can be accomplished using the amazing software we have in our lives today. Knowing the tech field is a vast world that requires endless learning, I look forward to improving my craft with knowledge and experience for years to come.</p>
 
-<p>I look forward to contributing to a company who's mission I believe in, while also spending time on the side creating fun apps for my kids to enjoy.</p>
+<p>I am excited to contribute to a company who's mission I believe in, while also spending time on the side creating fun apps for my kids to enjoy.</p>
 
 <br/>
 
