@@ -13,7 +13,7 @@
 
 🔭 I’m currently working on an **Activities app for kids & parents**
 
-🌱 I’m currently learning **Java** and **Data Structures/Algorithms**
+🌱 I’m currently improving **C#** skills and practicing **Data Structures/Algorithms**
 
 👨‍💻 My portfolio is [here](https://schmidt1519.github.io/portfolio/)
 
