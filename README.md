@@ -21,7 +21,7 @@
 
 📄 My resume is [here](https://schmidt1519.github.io/resume/)
 
-:heart: My interests include **Family, Coding, Fitness, Crypto, Sports, Tech Gadgets, Hiking, Music**
+:heart: My interests include **Family, Coding, Fitness, Blockchain, Sports, AI, Hiking, Tech Gadgets, Music**
 
 <br/>
 
