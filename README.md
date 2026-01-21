@@ -13,7 +13,7 @@
 
 🔭 I’m currently working on an **Activities app for kids & parents**
 
-🌱 I’m currently improving **C#** skills and practicing **Data Structures/Algorithms**
+🌱 I’m currently improving **C#** skills and learning **Azure cloud services and CI/CD pipelines**
 
 👨‍💻 My portfolio is [here](https://schmidt1519.github.io/portfolio/)
 
@@ -21,7 +21,7 @@
 
 📄 My resume is [here](https://schmidt1519.github.io/resume/)
 
-:heart: My interests include **Family, Coding, Fitness, Blockchain, Sports, AI, Hiking, Tech Gadgets, Music**
+:heart: My interests include **Family, Coding, Fitness, Blockchain, Sports, AI, Hiking, Music**
 
 <br/>
 
