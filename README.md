@@ -15,7 +15,7 @@ Knowing the tech field is a vast world that requires endless learning, I look fo
 
 ### About me:
 
-🔭 I’m currently working on an **Activities app for kids & parents**
+🔭 I’m currently working on an **Mind and Body Infusions & Wellness website and marketing** (my wife's small business)
 
 🌱 I’m currently improving **C#** skills and learning **Azure cloud services and CI/CD pipelines**
 
