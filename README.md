@@ -25,7 +25,7 @@ Knowing the tech field is a vast world that requires endless learning, I look fo
 
 📄 My resume is [here](https://schmidt1519.github.io/resume/)
 
-:heart: My interests include **Family, Coding, Fitness, Blockchain, Sports, AI, Hiking, Music**
+:heart: My interests include **Family, Coding, Fitness, Self Hosting, Sports, AI, Hiking, Music**
 
 <br/>
 
